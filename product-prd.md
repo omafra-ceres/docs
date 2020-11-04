@@ -22,7 +22,7 @@ How do we know this solution has succeeded? When users report drastically reduce
 
 
 # What is it?
-![Prototype Map](images/prototype-graphic.jpg)
+![Prototype Map](images/prototype-graphic.png)
 ## Storage 
 A database solution that has the following features
 1. Users can create a data structure - detailing the names of the data fields and the type of data they can contain
