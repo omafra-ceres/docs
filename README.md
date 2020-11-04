@@ -7,7 +7,8 @@
     1. [Product Requirements Document](product-prd.md)
     2. [Product Roadmap](product-roadmap.md)
 3. Technical Documentation
-    1. Technology choices
+    1. [Tech Stack Rationale](tech-stack.md)
+    2. Other Technical Documentation (links to other repository)
 4. People
     1. Maintenance team structure
     2. Job descriptions
