@@ -9,6 +9,4 @@
 3. Technical Documentation
     1. [Tech Stack Rationale](tech-stack.md)
     2. Other Technical Documentation (links to other repository)
-4. People
-    1. Maintenance team structure
-    2. Job descriptions
+4. Index of Documents
