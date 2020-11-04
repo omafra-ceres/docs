@@ -22,6 +22,7 @@ How do we know this solution has succeeded? When users report drastically reduce
 
 
 # What is it?
+![Prototype Map](images/prototype-graphic.jpg)
 ## Storage 
 A database solution that has the following features
 1. Users can create a data structure - detailing the names of the data fields and the type of data they can contain
@@ -38,7 +39,7 @@ A database solution that has the following features
 
 
 ## For Partner and Historical Data
-![alt_text](images/image1.jpg "image_tooltip")
+![Partner Data Map](images/partner-data-map.jpg)
 
 A conversion tool that takes historical data and converts it to a data structure as outlined above
 1. The user should be able to upload a simple spreadsheet exports (e.g. CSV files) to the database with this tool
@@ -48,7 +49,7 @@ A conversion tool that takes historical data and converts it to a data structure
 
 
 ## For Novel Data
-![alt_text](images/image2.jpg "image_tooltip")
+![Novel Data Map](images/novel-data-map.jpg)
 
 A data entry tool that will allow users submit novel data in line with preset data structures at the point of observation or soon after
 1. The tool should be able to provide simple data validation at the point of entry, aiming to eliminate errors in the data stored and used for analysis
@@ -60,15 +61,13 @@ A data entry tool that will allow users submit novel data in line with preset da
 
 ## For External Data (e.g. Weather Data)
 _OMAFRA has a team working on building a solution to collect weather data directly. This covers an approach that we would take._
-
+![External Data Map](images/external-data-map.jpg)
 
 ## For Analysis
 A tool that allows users set up and run repeated analyses with new data as it is received
 1. Users should be able to set up parameters for repeated analyses
 2. Users should be able to set triggers for automated analyses
 3. Tool should generate visualisations for these analyses exportable in various formats - image (e.g .jpg, .png) or document (e.g. .pdf)
-
-![alt_text](images/image3.jpg "image_tooltip")
 
 
 
