@@ -36,6 +36,7 @@ A database solution that has the following features
     4. A data importation tool
     5. An API
 
+
 ## For Partner and Historical Data
 ![alt_text](images/image1.jpg "image_tooltip")
 
@@ -44,6 +45,7 @@ A conversion tool that takes historical data and converts it to a data structure
 2. The user should be able to use the software to identify which columns on the spreadsheet/table contain data for specific fields of the pre-set data structure
 3. The tool should be able to import the data and make simple conversions where necessary e.g. date format conversions, address enrichment or degradation etc
 4. The tool should be able to identify duplicate data, data that is incompatible with the predetermined data structure, as well as gaps with the data, and flag them for action by the user
+
 
 ## For Novel Data
 ![alt_text](images/image2.jpg "image_tooltip")
@@ -55,8 +57,10 @@ A data entry tool that will allow users submit novel data in line with preset da
     1. **Mobile** - with a scouting app. This app should have an offline mode for no-bandwidth or low-bandwidth situations
     2. **Web (responsive for mobile)** 
 
+
 ## For External Data (e.g. Weather Data)
 _OMAFRA has a team working on building a solution to collect weather data directly. This covers an approach that we would take._
+
 
 ## For Analysis
 A tool that allows users set up and run repeated analyses with new data as it is received
@@ -72,10 +76,11 @@ A tool that allows users set up and run repeated analyses with new data as it is
 We’re using a scored prioritization framework for products (features) to help determine our development roadmap.
 This is not in contrast to the success spectrum earlier developed, but helps support our team in implementation of our development plans in a manner that will drive the most value to users while the solution is being developed, while making the best use of resources.
 
+
 ## Framework
 The scoring framework is found below. All metrics are scored on a scale of 0 - 3. An exception is made for dependencies - where the scoring metric scale is 0, 1, 2 and 10.
 
-<table>
+<table style="width:100%">
   <tr>
    <td></td>
    <td><strong>0</strong></td>
