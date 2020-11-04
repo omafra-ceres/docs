@@ -4,8 +4,8 @@
     2. Sprint Zero research notes
     3. Grower research notes
 2. Product Documentation
-    1. Product requirements document
-    2. Product roadmap
+    1. [Product Requirements Document](product-prd.md)
+    2. [Product Roadmap](product-roadmap.md)
 3. Technical Documentation
     1. Technology choices
 4. People
