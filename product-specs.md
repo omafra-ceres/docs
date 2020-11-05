@@ -6,14 +6,14 @@ We’ve grouped required features into feature sets – and are providing visibi
 
 ## Overview of Releases
 ### Alpha Feature Set
-* Data Set - Basic
-* Global Data Structures
+* Data Sets - Basic
+* Global Data Sets
 * Account Management - Basic
 * Export
 * Access Control - Basic
 
 ### Beta Feature Set
-* Data Set - Advanced
+* Data Sets - Advanced
 * Account Management - Advanced
 * Search
 * Compare
@@ -41,7 +41,7 @@ We’ve grouped required features into feature sets – and are providing visibi
         * Rename fields
     * Publish data template
 * Edit existing data template
-    * Edit metadata about data structure
+    * Edit metadata about data set
     * Edit field names
     * Edit field type if no data attached to DS/field
     * Delete field if no data attached to DS/field
@@ -60,7 +60,7 @@ We’ve grouped required features into feature sets – and are providing visibi
     * Can restore a record from the data set in 30 days
     * Can filter data in data set
 * Archive data set
-* Un-archive data structure
+* Un-archive data set
 
 
 ### 
@@ -128,7 +128,7 @@ We’ve grouped required features into feature sets – and are providing visibi
 
 ### Access Control - Basic
 *   Users and admins only
-*   Users have access to their own data structures
+*   Users have access to their own data sets
 *   Users can invite other users to enter data into their own data sets
 *   Admins can use an allow list to decide who can create accounts
 
@@ -136,8 +136,8 @@ We’ve grouped required features into feature sets – and are providing visibi
 ### Access Control - Advanced
 *   Ability to invite new users 
 *   Ability to have allowed list of Tier 2 users
-*   Ability to upgrade Tier 1 users to Tier ⅔
-*   Restrictions on Tier 2/3 users to ontario.ca email addresses
+*   Ability to upgrade Tier 1 users to Tier 2 or 3
+*   Restrictions on Tier 2 and 3 users to ontario.ca email addresses
 
 
 <table>
@@ -196,7 +196,7 @@ We’ve grouped required features into feature sets – and are providing visibi
         <td>Yes - all</td>
     </tr>
     <tr>
-        <td>Archive data structure</td>
+        <td>Archive data set</td>
         <td>No</td>
         <td>Yes - owned</td>
         <td>Yes - owned</td>
