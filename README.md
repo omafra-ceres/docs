@@ -5,6 +5,7 @@
     3. Grower research notes
 2. Product Documentation
     1. [Product Requirements Document](product-prd.md)
+    2. [Release Specs](product-specs.md)
     2. [Product Roadmap](product-roadmap.md)
 3. Technical Documentation
     1. [Tech Stack Rationale](tech-stack.md)
